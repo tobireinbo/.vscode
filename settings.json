@@ -1,0 +1,10 @@
+{
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "top",
+    "workbench.browser.showInTitleBar": false,
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.iconTheme": "vscode-modern-icons",
+    "workbench.navigationControl.enabled": false
+}
